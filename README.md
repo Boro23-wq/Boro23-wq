@@ -5,7 +5,7 @@
 ## A Developer, Designer, and a Student!
 
 - 👨‍💻 I’m currently working on my personal projects
-- ⌨️ I blog during my free time. Visit my technical blog [here](https://sintu-boro-blogs.netlify.app/)
+- ⌨️ I blog during my free time. Visit my technical blog [here](https://boro-blogs.netlify.app/)
 - 🌱 I’m currently learning GraphQL
 - 🖱 And I'm also working on a UI/UX design concept
 - 🥅 2020 Resolution: Start contribute to Open Source projects
