@@ -4,10 +4,10 @@
 
 ## A Developer, Designer, and a Student!
 
-- 👨‍💻 I’m currently working on my personal projects
+- 👨‍💻 I’m currently a senior year undergraduate
 - ⌨️ I blog during my free time. Visit my technical blog [here](https://boro-blogs.netlify.app/)
-- 🌱 I’m currently learning GraphQL
-- 🖱 And I'm also working on a UI/UX design concept
+- 🌱 I’m currently working on a Full Stack application
+- 🖱 I like building and designing UI/UX concepts
 - 🥅 2020 Resolution: Start contribute to Open Source projects
 - ⚡ Fun fact: I love video editing and playing guitar 🎸
 
