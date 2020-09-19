@@ -10,7 +10,7 @@
 - 🖱 I like building and designing UI/UX concepts
 - 🥅 2020 Resolution: Start contribute to Open Source projects
 - ⚡ Fun fact: I love video editing and playing guitar 🎸
-- ⚽ Favorite Team: Liverpool #YNWA
+- ⚽ Favorite Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA
 
 ### Connect with me:
 
