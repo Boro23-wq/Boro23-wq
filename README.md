@@ -4,13 +4,13 @@
 
 ## A Developer, Designer, and a Student!
 
-- 👨‍💻 I’m currently a senior year undergraduate
-- ⌨️ I blog during my free time. Visit my technical blog [here](https://boro-blogs.netlify.app/)
-- 🌱 I’m currently working on a Full Stack application
-- 🖱 I like building and designing UI/UX concepts
-- 🥅 2020 Resolution: Start contribute to Open Source projects
-- ⚡ Fun fact: I love video editing and playing guitar 🎸
-- ⚽ Favorite Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA
+- 💻 I’m currently a senior year Computer Science undergraduate.
+- ⌨️ I blog during my free time. Visit my technical blog [here.](https://boro-blogs.netlify.app/)
+- 🌱 I’m currently working on a Full Stack application.
+- 🖱 I like building and designing UI/UX concepts.
+- 🥅 2020 Resolution: Start contribute to Open Source projects.
+- ⚡ Fun fact: I love video editing and playing guitar 🎸.
+- ⚽ Favorite Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA.
 
 ### Connect with me:
 
