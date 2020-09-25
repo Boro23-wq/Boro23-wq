@@ -1,4 +1,4 @@
-<img  alt="Boro.com" width="100%" src="https://github.com/Boro23-wq/Boro23-wq/blob/master/be-better-everyday.png" />
+<img  alt="Boro.com" width="100%" src="https://github.com/Boro23-wq/Boro23-wq/blob/master/better-everyday.png" />
 
 ### Hey there 👋, I'm Boro 🙋‍♂️
 
