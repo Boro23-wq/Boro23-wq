@@ -4,7 +4,7 @@
 
 ## A Developer, Designer, and a Student!
 
-- 💻 I’m currently a senior year Computer Science undergraduate.
+- 👨‍💻 I’m currently a senior year Computer Science undergraduate.
 - ⌨️ I blog during my free time. Visit my technical blog [here.](https://boro-blogs.netlify.app/)
 - 🌱 I’m currently working on a Full Stack application.
 - 🖱 I build and design UI/UX concepts.
