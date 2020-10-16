@@ -1,4 +1,4 @@
-<img  alt="Boro.com" width="100%" src="https://github.com/Boro23-wq/Boro23-wq/blob/master/better-everyday.png" />
+<img  alt="liverpool-cover" width="100%" src="https://github.com/Boro23-wq/Boro23-wq/blob/master/liverpool.png" />
 
 ### Hey there 👋, I'm Boro 🙋‍♂️
 
@@ -7,7 +7,7 @@
 - 💻 I’m currently a senior year Computer Science undergraduate.
 - ⌨️ I blog during my free time. Visit my technical blog [here.](https://boro-blogs.netlify.app/)
 - 🌱 I’m currently working on a Full Stack application.
-- 🖱 I like building and designing UI/UX concepts.
+- 🖱 I build and design UI/UX concepts.
 - 🥅 2020 Resolution: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love video editing and playing guitar 🎸.
 - ⚽ Favorite Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA.
