@@ -7,10 +7,10 @@
 👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
 ⌨️ I blog during my free time. Visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
 🌱 I’m currently working on a Full Stack application. <br/>
-🖱 I build and design UI/UX concepts. <br/>
+🖱 I build and design UI/UX concepts. Visit my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
 🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
 ⚡ Fun fact: I love video editing and playing guitar 🎸. <br/>
-⚽ Favorite Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA. <br/>
+⚽ Favorite Soccer Team: [LiverpoolFC](https://www.liverpoolfc.com/) #YNWA. <br/>
 
 ### Connect with me:
 
