@@ -2,7 +2,7 @@
 
 ### Hey there 👋, I'm Boro 🙋‍♂️
 
-## A Developer, Designer, and a Student!
+## A Developer, Designer, and a Student.
 
 👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
 ⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
