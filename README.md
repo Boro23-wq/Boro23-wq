@@ -9,7 +9,7 @@
 🖱 I build and design UI/UX concepts. Visit my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
 🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
 ⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
-⚽ Favorite Football/Soccer Team: [LiverpoolFC](https://www.liverpoolfc.com/) YNWA. <br/>
+⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
 
 ### Connect with me:
 
