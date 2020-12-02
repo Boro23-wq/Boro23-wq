@@ -1,4 +1,4 @@
-<img  alt="liverpool-cover" width="100%" src="https://github.com/Boro23-wq/Boro23-wq/blob/master/liverpool.png" />
+<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
 
 ### Hey there 👋, I'm Boro 👨‍💻
 
