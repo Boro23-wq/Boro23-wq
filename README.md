@@ -1,12 +1,10 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
 
-<h2 align="center">
-  Hey there 👋, I'm Boro 
-<h2/>
-
 <h3 align="center">
+  Hey there 👋, I'm Boro 
+  <br/>
   A Developer, Designer, and a Student 👨‍💻
-<h2/>
+<h3/>
 
 👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
 ⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
