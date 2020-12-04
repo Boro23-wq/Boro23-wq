@@ -19,7 +19,13 @@
 ### ⚡ Languages and Tools:
 
 <p>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vscode-%beatport.svg?color=blue&style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
+  <img><img src="https://img.shields.io/badge/vscode-%beatport.svg?color=darkblue&style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></img> 
+  <img><img src="https://img.shields.io/badge/html5-%beatport.svg?color=orange&style=for-the-badge&logo=html5&logoColor=white" height=25></img> 
+  <img><img src="https://img.shields.io/badge/styled components-%beatport.svg?color=purple&style=for-the-badge&logo=styled-components&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=pink&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=pink&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
 <p/>
 
 <!--
