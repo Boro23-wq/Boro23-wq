@@ -16,12 +16,12 @@
 <p>
   <a href="https://sintu-boro.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%beatport.svg?&style=for-the-badge&logo=udacity&logoColor=white" height=25></a> 
   <a href="https://boro-ui-ux.webflow.io/"><img src="https://img.shields.io/badge/UI/UX-%beatport.svg?color=orange&style=for-the-badge&logo=polymer-project&logoColor=white" height=25></a> 
+  <a href="https://boro-blogs.netlify.app/"><img src="https://img.shields.io/badge/Blog-%beatport.svg?color=purple&style=for-the-badge&logo=blogger&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/sintu-boro-5a5aa415b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/middlechild.x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.facebook.com/404slimboysavage/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+   <a href="https://sboro2899.medium.com/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p/>
-
-<br />
 
 ### ⚡ Languages and Tools:
 
