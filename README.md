@@ -4,13 +4,6 @@
   Hey there 👋, I'm Boro 
 <h3/>
   
-👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
-⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
-🖱 I build and design UI/UX concepts. Visit my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
-🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
-⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
-⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
-
 ### Connect with me:
 
 <p>
@@ -25,6 +18,11 @@
 
 ### ⚡ Languages and Tools:
 
+<p>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vscode-%beatport.svg?color=blue&style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
+<p/>
+
+<!--
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -51,3 +49,12 @@
 
 <!--
 **Boro23-wq/Boro23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
+👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
+⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
+🖱 I build and design UI/UX concepts. Visit my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
+🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
+⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
+⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
+--!>
