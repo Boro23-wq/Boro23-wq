@@ -1,10 +1,12 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
 
-<p align="center">
-  Hey there 👋, I'm Boro 👨‍💻
-<p/>
+<h2 align="center">
+  Hey there 👋, I'm Boro 
+<h2/>
 
-## A Developer, Designer, and a Student.
+<h3 align="center">
+  A Developer, Designer, and a Student 👨‍💻
+<h2/>
 
 👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
 ⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
@@ -14,6 +16,12 @@
 ⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
   
 ### Connect with me:
+
+<p>
+  <a href="https://www.linkedin.com/in/sintu-boro-5a5aa415b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=superuser&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/sintu-boro-5a5aa415b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/middlechild.x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.facebook.com/404slimboysavage/"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 
 [<img align="left" alt="Boro.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="BoroLinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
