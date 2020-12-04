@@ -24,7 +24,9 @@
   <img><img src="https://img.shields.io/badge/styled components-%beatport.svg?color=purple&style=for-the-badge&logo=styled-components&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/gatsby-%beatport.svg?color=purple&style=for-the-badge&logo=gatsby&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/figma-%beatport.svg?color=darkorange&style=for-the-badge&logo=figma&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/git-%beatport.svg?color=black&style=for-the-badge&logo=github&logoColor=white" height=25></img>
 <p/>
