@@ -1,15 +1,15 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
 
 ## Hey there 👋, I'm Boro 
-### A Designer, Developer and a Student 👨‍💻
-
 👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
 ⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
 🖱 I build and design UI/UX concepts. Please have a visit to my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
 🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
 ⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
 ⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
-  
+
+---
+
 ### Connect with me:
 
 <p>
@@ -36,19 +36,5 @@
   <img><img src="https://img.shields.io/badge/figma-%beatport.svg?color=darkorange&style=for-the-badge&logo=figma&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/git-%beatport.svg?color=black&style=for-the-badge&logo=github&logoColor=white" height=25></img>
 <p/>
-
-<br />
-<br />
-
----
-
-[blog]: https://sintu-boro.netlify.app/
-[twitter]: https://twitter.com/SintuBoro7
-[instagram]: https://instagram.com/middlechild.x
-[facebook]: https://www.facebook.com/404slimboysavage/
-[linkedin]: https://linkedin.com/in/sintu-boro-5a5aa415b
-[tools]: #
-
-
 <!--
 **Boro23-wq/Boro23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
