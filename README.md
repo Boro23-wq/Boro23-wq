@@ -1,12 +1,19 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
+  
+<h2 align="center"> Hey there 👋, I'm Boro </h2>
 
-## Hey there 👋, I'm Boro 
-👨‍💻 I’m currently a senior year Computer Science undergraduate. <br/>
-⌨️ I blog during my free time. Please visit my technical blog [here.](https://boro-blogs.netlify.app/) <br/>
-🖱 I build and design UI/UX concepts. Please have a visit to my UI/UX portfolio [here.](https://boro-ui-ux.webflow.io/) <br/>
-🥅 2020 Resolution: Start contributing to Open Source projects. <br/>
+<p align="center">
+  
+I’m currently a senior year undergraduate studying Computer Science. I blog during my free time. You can have a visit to my technical blog [here.](https://boro-blogs.netlify.app/) I also design and build UI/UX concepts. Some of my work is displayed [here.](https://boro-ui-ux.webflow.io/). I’m currently working on a Full Stack application using Next.js. 
+
+</p>
+
+<h2 align="center"> Facts about me: </h2>
+
+🥅 2021 Resolution: Start contributing to Open Source projects. <br/>
 ⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
 ⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
+
 
 ---
 
