@@ -10,7 +10,7 @@
 
 ---
 
-### Connect with me:
+### 🔗 Connect with me:
 
 <p>
   <a href="https://sintu-boro.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%beatport.svg?&style=for-the-badge&logo=polymer-project&logoColor=white" height=25></a> 
