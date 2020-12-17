@@ -4,7 +4,7 @@
 
 <p align="center">
   
-I’m currently a senior year undergraduate studying Computer Science. I blog during my free time. You can have a visit to my technical blog [here.](https://boro-blogs.netlify.app/) I also design and build UI/UX concepts. Some of my work is displayed [here.](https://boro-ui-ux.webflow.io/) I’m currently working on a Full Stack application using Next.js. 
+I’m currently a senior year undergraduate studying Computer Science. I blog during my free time. You can have a visit to my technical blog [here.](https://boro-blogs.netlify.app/) I also design and build UI/UX concepts. Some of my related work is displayed [here.](https://boro-ui-ux.webflow.io/) I’m currently working on a Full Stack application using Next.js. 
 
 </p>
 
