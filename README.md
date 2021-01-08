@@ -1,6 +1,10 @@
-<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
+ [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
+ 
+ <h1 align="center">
+  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/fec004c49f9ed2940369ce13d73d716c8eb47b0f/name.svg" alt="Marton Lederer" />
+</h1>
   
-<h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2>
+[comment]: <> ( <h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2> )
 
 <p align="center">
   
