@@ -11,7 +11,7 @@ I’m currently a senior year undergraduate studying Computer Science. I blog du
 <h2 align="center"> Facts about me: </h2>
 
 🥅 2021 Resolution: Start contributing to Open Source projects. <br/>
-⚡ Fun fact: I love video editing and I play acoustics 🎸. <br/>
+⚡ Fun fact: I love video editing and playing acoustics 🎸. <br/>
 ⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
 
 
