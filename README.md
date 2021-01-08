@@ -1,6 +1,6 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
   
-<h2 align="center"> Hey there 👋, I'm Boro </h2>
+<h2 align="center"> Hey there, I'm Boro 👨‍💻 </h2>
 
 <p align="center">
   
