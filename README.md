@@ -1,7 +1,7 @@
  [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
  
  <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/fec004c49f9ed2940369ce13d73d716c8eb47b0f/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/b645b23f5776e3665bfefc152ddb68e4e6a7b1db/name.svg" alt="Sintu Boro" />
 </h1>
   
 [comment]: <> ( <h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2> )
@@ -10,7 +10,7 @@
   
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently a senior year undergraduate studying Computer Science. </samp> <br/> 
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I blog during my free time. I mostly write about development and best practices. </samp> <br/> 
-<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also design and build UI/UX concepts. I build my wireframes using Figma. </samp> </br>
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also design and build UI/UX concepts. I build my wireframes on Figma. </samp> </br>
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
 
 </p>
