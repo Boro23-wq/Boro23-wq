@@ -4,20 +4,18 @@
 
 <p align="center">
   
-
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently a senior year undergraduate studying Computer Science. </samp> <br/> 
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I blog during my free time. You can have a visit to my technical blog. I mostly write about development and best practices. </samp> <br/> 
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also design and build UI/UX concepts. I build my wireframes using Figma. </samp> </br>
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
 
-
 </p>
 
 <h2 align="center"> Facts about me: </h2>
 
-🥅 2021 Resolution: Start contributing to Open Source projects. <br/>
-⚡ Fun fact: I love video editing and playing acoustics 🎸. <br/>
-⚽ Favorite Football/Soccer Team: [Liverpool Football Club](https://www.liverpoolfc.com/) YNWA. <br/>
+🥅 <samp> 2021 Resolution: Start contributing to Open Source projects. </samp> <br/>
+⚡ <samp> Fun fact: I love video editing and playing acoustics 🎸. </samp> <br/>
+⚽ <samp> Favorite Football/Soccer Team: Liverpool Football Club. </samp> <br/>
 
 
 ---
