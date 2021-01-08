@@ -1,13 +1,15 @@
 <img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" />
   
-<h2 align="center"> Hey there, I'm Boro 👨‍💻 </h2>
+<h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2>
 
-<p text-align:center >
+<p align="left">
   
+<samp>
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> I’m currently a senior year undergraduate studying Computer Science. <br/> 
-<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> I blog during my free time. You can have a visit to my technical blog [here.](https://boro-blogs.netlify.app/) I mostly write about development and best practices. <br/> 
+<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> I blog during my free time. You can have a visit to my technical blog [here.](https://boro-blogs.netlify.app/) </br> I mostly write about development and best practices. <br/> 
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> I also design and build UI/UX concepts. Some of my design related work is displayed [here.](https://boro-ui-ux.webflow.io/) <br/>
 <img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> I’m currently learning Next.js predominantly. <br/> 
+</samp> 
 
 </p>
 
