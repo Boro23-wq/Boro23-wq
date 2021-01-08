@@ -4,10 +4,10 @@
 
 <p align="center">
   
-<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently a senior year undergraduate studying Computer Science. </samp> <br/> 
-<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I blog during my free time. I mostly write about development and best practices. </samp> <br/> 
-<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also design and build UI/UX concepts. I build my wireframes using Figma. </samp> </br>
-<img  alt="liverpool-cover" width="15px" height=15px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently a senior year undergraduate studying Computer Science. </samp> <br/> 
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I blog during my free time. I mostly write about development and best practices. </samp> <br/> 
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also design and build UI/UX concepts. I build my wireframes using Figma. </samp> </br>
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
 
 </p>
 
