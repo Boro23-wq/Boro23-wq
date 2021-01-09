@@ -46,7 +46,7 @@
   <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/gatsby-%beatport.svg?color=purple&style=for-the-badge&logo=gatsby&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/figma-%beatport.svg?color=darkorange&style=for-the-badge&logo=figma&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/Next.js-%beatport.svg?color=black&style=for-the-badge&logo=Next.js&logoColor=white" height=25></img>
 <p/>
 <!--
 **Boro23-wq/Boro23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
