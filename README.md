@@ -19,7 +19,7 @@
 
 🥅 <samp> 2021 Resolution: Start contributing to Open Source projects. </samp> <br/>
 ⚡ <samp> Fun fact: I love video editing and playing acoustics 🎸. </samp> <br/>
-⚽ <samp> Favorite Football/Soccer Team: Liverpool Football Club. </samp> <br/>
+⚽ <samp> Favorite Football Team: Liverpool Football Club. </samp> <br/>
 
 
 ---
