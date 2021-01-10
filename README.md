@@ -1,7 +1,7 @@
- [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
+[comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
  
- <h5 align="center">
-  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/b645b23f5776e3665bfefc152ddb68e4e6a7b1db/name.svg" alt="Sintu Boro" />
+<h5 align="center">
+  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/cef7dba3d13276e6e21de59f4513132fefd62bab/name.svg" alt="Sintu Boro" />
 </h5>
   
 [comment]: <> ( <h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2> )
@@ -21,7 +21,7 @@
 ### 🤝 Connect with me:
 
 <p>
-  <a href="https://sintu-boro.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%beatport.svg?&style=for-the-badge&logo=polymer-project&logoColor=white" height=25></a> 
+ <a href="https://sintu-boro.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%beatport.svg?&style=for-the-badge&logo=polymer-project&logoColor=white" height=25></a>
   <a href="https://boro-ui-ux.webflow.io/"><img src="https://img.shields.io/badge/UI/UX-%beatport.svg?color=orange&style=for-the-badge&logo=udacity&logoColor=white" height=25></a> 
   <a href="https://boro-blogs.netlify.app/"><img src="https://img.shields.io/badge/Blog-%beatport.svg?color=purple&style=for-the-badge&logo=blogger&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/sintu-boro-5a5aa415b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
@@ -30,16 +30,13 @@
    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p/>
 
-### ⚡ Languages and Tools:
+### 🪓 Development Tools:
 
 <p>
-  <img><img src="https://img.shields.io/badge/vscode-%beatport.svg?color=darkblue&style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></img> 
-  <img><img src="https://img.shields.io/badge/html5-%beatport.svg?color=orange&style=for-the-badge&logo=html5&logoColor=white" height=25></img> 
   <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/gatsby-%beatport.svg?color=purple&style=for-the-badge&logo=gatsby&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/Next.js-%beatport.svg?color=black&style=for-the-badge&logo=Next.js&logoColor=white" height=25></img>
 <p/>
 <!--
