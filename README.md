@@ -1,8 +1,8 @@
  [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
  
- <h1 align="center">
+ <h5 align="center">
   <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/b645b23f5776e3665bfefc152ddb68e4e6a7b1db/name.svg" alt="Sintu Boro" />
-</h1>
+</h5>
   
 [comment]: <> ( <h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2> )
 
@@ -14,12 +14,6 @@
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
 
 </p>
-
-<h2 align="center"> Fact Check: </h2>
-
-🥅 <samp> 2021 Resolution: Start contributing to Open Source projects. </samp> <br/>
-⚡ <samp> Fun fact: I love video editing and playing acoustics 🎸. </samp> <br/>
-⚽ <samp> Favorite Football Team: Liverpool Football Club (LFC). </samp> <br/>
 
 
 ---
