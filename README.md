@@ -15,11 +15,11 @@
 
 </p>
 
-<h2 align="center"> Facts about me: </h2>
+<h2 align="center"> Fact Check: </h2>
 
 🥅 <samp> 2021 Resolution: Start contributing to Open Source projects. </samp> <br/>
 ⚡ <samp> Fun fact: I love video editing and playing acoustics 🎸. </samp> <br/>
-⚽ <samp> Favorite Football Team: Liverpool Football Club. </samp> <br/>
+⚽ <samp> Favorite Football Team: Liverpool Football Club (LFC). </samp> <br/>
 
 
 ---
