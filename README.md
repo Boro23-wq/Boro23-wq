@@ -1,7 +1,7 @@
 [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
  
 <h5 align="center">
-  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/fc48a0b4b667b55be5925b626fb8c68d4f44f907/custom-name.svg" alt="Sintu Boro" />
+  <img src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/c647d4718bd1f0abfaafe177c19651e0c47b88a7/name.svg" alt="Sintu Boro" />
 </h5>
   
 [comment]: <> ( <h2 align="center"> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h2> )
