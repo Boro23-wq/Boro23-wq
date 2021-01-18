@@ -32,7 +32,7 @@
 ### 🪓 Development Tools:
 
 <p>
-  <img><img href="https://www.javascript.com/" src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
+  <img href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/node-%beatport.svg?color=green&style=for-the-badge&logo=Node.js&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
