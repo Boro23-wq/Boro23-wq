@@ -26,13 +26,13 @@
   <a href="https://boro-blogs.netlify.app/"><img src="https://img.shields.io/badge/Blog-%beatport.svg?color=purple&style=for-the-badge&logo=blogger&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/sintu-boro-5a5aa415b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/middlechild.x/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+   <a href="https://sboro2899.medium.com/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p/>
 
 ### 🪓 Development Tools:
 
 <p>
-  <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
+  <img><img href="https://www.javascript.com/" src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/node-%beatport.svg?color=green&style=for-the-badge&logo=Node.js&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
