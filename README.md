@@ -10,7 +10,7 @@
   
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently a senior year undergraduate studying Computer Science. </samp> <br/> 
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I blog during my free time. I mostly write about front-end, development and best practices. </samp> <br/> 
-<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also build UI/UX concept designs. I build mockups and wireframes on Figma. </samp> </br>
+<img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I also build UI/UX concept designs. I use Figma for the mockups and wireframes. </samp> </br>
 <img  alt="liverpool-cover" width="10px" height=10px src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/au-kddi/190/white-heavy-check-mark_2705.png" /> <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
 
 </p>
