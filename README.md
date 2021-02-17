@@ -28,7 +28,7 @@
    <a href="https://sboro2899.medium.com/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p/>
 
-### 🪓 Development Tools:
+### 👨‍💻 Development Tools:
 
 <p>
   <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
