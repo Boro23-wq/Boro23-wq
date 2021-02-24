@@ -32,11 +32,11 @@
 
 <p>
   <img><img src="https://img.shields.io/badge/-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/node-%beatport.svg?color=green&style=for-the-badge&logo=Node.js&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/redux-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
-  <img><img src="https://img.shields.io/badge/Next.js-%beatport.svg?color=black&style=for-the-badge&logo=Next.js&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/-%beatport.svg?color=green&style=for-the-badge&logo=Node.js&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/-%beatport.svg?color=darkviolet&style=for-the-badge&logo=redux&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
+  <img><img src="https://img.shields.io/badge/-%beatport.svg?color=black&style=for-the-badge&logo=Next.js&logoColor=white" height=25></img>
 <p/>
 <!--
 **Boro23-wq/Boro23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
