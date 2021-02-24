@@ -28,8 +28,9 @@
    <a href="https://sboro2899.medium.com/"><img src="https://img.shields.io/badge/medium-%230077B5.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <p/>
 
-### 👨‍💻 Development Tools:
 
+<!--
+### 👨‍💻 Development Tools:
 <p>
   <img><img src="https://img.shields.io/badge/javascript-%beatport.svg?color=yellow&style=for-the-badge&logo=javascript&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/react-%beatport.svg?color=lightblue&style=for-the-badge&logo=react&logoColor=white" height=25></img>
@@ -38,8 +39,6 @@
   <img><img src="https://img.shields.io/badge/graphql-%beatport.svg?color=red&style=for-the-badge&logo=graphql&logoColor=white" height=25></img>
   <img><img src="https://img.shields.io/badge/Next.js-%beatport.svg?color=black&style=for-the-badge&logo=Next.js&logoColor=white" height=25></img>
 <p/>
-<!--
 **Boro23-wq/Boro23-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [comment]: <> (<img><img src="https://img.shields.io/badge/git-%beatport.svg?color=black&style=for-the-badge&logo=github&logoColor=white" height=25></img>)
 [comment]: <> (<img><img src="https://img.shields.io/badge/styled components-%beatport.svg?color=purple&style=for-the-badge&logo=styled-components&logoColor=white" height=25></img>)
