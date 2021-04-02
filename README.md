@@ -3,11 +3,13 @@
 <h1> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Boro</span> 👨‍💻 </h1>
 
 <p align="center">
-  
-<pre> ‣ I’m currently a senior year undergraduate studying Computer Science. </pre> <br/> 
-‣ <samp> I blog during my free time. I mostly write about front-end, development and best practices. </samp> <br/> 
-‣ <samp> I also build UI/UX concept designs. I use Figma for the mockups and wireframes. </samp> </br>
-‣ <samp> I’m currently learning Next.js predominantly. </samp> <br/> 
+
+```
+‣ I’m currently a senior year undergraduate studying Computer Science. 
+‣ I blog during my free time. I mostly write about front-end, development and best practices. 
+‣ I also build UI/UX concept designs. I use Figma for the mockups and wireframes. 
+‣ I’m currently learning Next.js predominantly. 
+```
 
 </p>
 
