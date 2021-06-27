@@ -1,15 +1,10 @@
 [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
   
-<h1> Hey there, I'm <span style="font-family:Kanit; font-size:4em;">Sintu Boro</span> 👨‍💻 </h1>
+<h1> Hey 👨‍💻 </h1>
 
 <p align="center">
-
-```
-‣ I’m currently a senior year undergraduate studying Computer Science. 
-‣ I blog during my free time. I mostly write about front-end, development and best practices. 
-‣ I also build UI/UX concept designs. I use Figma for the mockups and wireframes. 
-‣ I’m currently learning Next.js predominantly. 
-```
+  
+I’m a Computer Science graduate. I ```blog``` during my free time. I write about ```front-end```, ```development``` and ```best practices``` at large. I also build `UI/UX` concept designs. I use `Figma` for the mockups and wireframes. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly.`
 
 </p>
 
