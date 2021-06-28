@@ -4,7 +4,7 @@
 
 <p align="center">
   
-I’m a Computer Science graduate. I ```blog``` during my free time. I write about ```front-end```, ```development``` and ```best practices``` at large. I also build `UI/UX` concept designs. I use `Figma` for the mockups and wireframes. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly.`
+I’m a Computer Science graduate. I ```blog``` during my free time. I write about ```front-end```, ```development``` and ```best practices``` at large. I also build `UI/UX` concept designs. I use `Figma` for the mockups and wireframes. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly.
 
 </p>
 
