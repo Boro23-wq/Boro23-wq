@@ -4,7 +4,7 @@
 
 <p align="center">
   
-I’m currently a Master's in Computer Science student at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. I do `UI/UX` concept designs as well. I use `Figma` for the mockups and wireframes.
+I’m currently a Master's in Computer Science student at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. I do `UI/UX` concept designs as well where I use `Figma` for the mockups and wireframes.
 
 </p>
 
