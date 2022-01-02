@@ -1,10 +1,10 @@
 [comment]: <> (<img  alt="liverpool-cover" width="100%" src="https://raw.githubusercontent.com/Boro23-wq/Boro23-wq/master/Dev.png" /> )
   
-<h1> Hey 👨‍💻 </h1>
+<h1> sup? </h1>
 
 <p align="center">
   
-I’m currently studying Master's in Computer Science at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. I do `UI/UX` concept designs as well; I use `Figma` for the mockups and wireframes.
+I’m a Master's student studying Computer Science at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. I do `UI/UX` wireframes as well.
 
 </p>
 
