@@ -4,7 +4,7 @@
 
 <p align="center">
   
-I’m a Master's student studying Computer Science at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. I do `UI/UX` wireframes as well.
+I’m a Master's student studying Computer Science at NJIT. I’m currently working with `Typescript`, `Next.js`, and `NestJS` predominantly. Additionally, I also write ```blogs``` during my free time. I write about ```full-stack technologies```, ```development``` and ```best practices``` at large. Additionally, I like building experiences for the web. I build high-quality websites with design aesthetics. If you want to check out some of my work, you may visit my <a href="https://boro-ui-ux.webflow.io"> UI/UX Portfolio</a>.
 
 </p>
 
