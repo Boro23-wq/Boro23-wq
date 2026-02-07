@@ -5,7 +5,7 @@
 <p align="center">
   
 <em>Building experiences</em>. I'm Boro, a software designer and developer. I build web applications with a focus on performance, user-centric design, and high-impact user experience.
-I write technical <a href="https://sboro.vercel.app/">blogs</a> primarily focused on full-stack development. My posts often delve into front-end technologies providing valuable insights and information.
+I write technical <a href="https://boro.im/">blogs</a> primarily focused on full-stack development. My posts often delve into front-end technologies providing valuable insights and information.
 
 </p>
 
